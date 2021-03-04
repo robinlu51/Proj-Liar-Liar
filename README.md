@@ -1,7 +1,7 @@
 # Proj-Liar-Liar
 A Video Based Murder Mystery Game. Interrogate each suspect and examine the evidence to find the real killer. Pay attention to some of the audio cues, they might just help you out.
 
-A game by:
+A game by:\
 Tianyang Robin Lu,\
 Cole Steigman,\
 Ziyao Zhu,\
