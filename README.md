@@ -25,9 +25,9 @@ Detective Orlando Fox - Jacob McCleery\
 Aron Norris - Tianyang Robin Lu\
 Vincent Murray - Misael Lopez-Herrera\
 Domonic Dyer - Ziyao Zhu\
-Ted Swan - Cole Steigman\
+Ted Swan - Cole Steigman
 
 Written & Directed by Tianyang Robin Lu\
 Sound design by Cole Steigman\
 Video editing by Misael Lopez-Herrera\
-Additional gameplay support by Ziyao Zhu\
+Additional gameplay support by Ziyao Zhu
