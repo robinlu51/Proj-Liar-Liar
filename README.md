@@ -2,10 +2,10 @@
 A Video Based Murder Mystery Game. Interrogate each suspect and examine the evidence to find the real killer. Pay attention to some of the audio cues, they might just help you out.
 
 A game by:
-Tianyang Robin Lu,
-Cole Steigman,
-Ziyao Zhu,
-Jacob McCleery,
+Tianyang Robin Lu,\
+Cole Steigman,\
+Ziyao Zhu,\
+Jacob McCleery,\
 Misael Lopez-Herrera
 
 
@@ -17,7 +17,7 @@ Cast:
 
 Detective Perry - You\
 Detective Orlando Fox - Jacob McCleery\
-Aron Norris - Tianyang Robin Lu
-Vincent Murray - Misael Lopez-Herrera
-Domonic Dyer - Ziyao Zhu
+Aron Norris - Tianyang Robin Lu\
+Vincent Murray - Misael Lopez-Herrera\
+Domonic Dyer - Ziyao Zhu\
 Ted Swan - Cole Steigman
