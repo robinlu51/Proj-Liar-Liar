@@ -1,5 +1,5 @@
 # Proj-Liar-Liar
-A Video Based Murder Mystery Game. Interrogate each suspect and examine the evidence to find the real killer. Pay attention to some of the audio cues, they might just help you out.
+A Video Based Murder Mystery Game. Interrogate each suspect and examine the evidence to find the real killer. Pay attention to some of the audio cues, they might just help you out. Each one of the suspects is lying to you in some way, you need to read their body language and facial expression to piece together the story.
 
 To play, select the first option on Title Page, move with mouseclicks.
 Start by talking to the person in the starting room, your partner Detective Orlando Fox.
@@ -25,4 +25,9 @@ Detective Orlando Fox - Jacob McCleery\
 Aron Norris - Tianyang Robin Lu\
 Vincent Murray - Misael Lopez-Herrera\
 Domonic Dyer - Ziyao Zhu\
-Ted Swan - Cole Steigman
+Ted Swan - Cole Steigman\
+
+Written & Directed by Tianyang Robin Lu\
+Sound design by Cole Steigman\
+Video editing by Misael Lopez-Herrera\
+Additional gameplay support by Ziyao Zhu\
